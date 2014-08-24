@@ -11,3 +11,5 @@ Aspects we need to consider:
 - [Display Capabilities](/DisplayCapabilities.md/)
 - [Display Properties](/DisplayProperties.md/)
 - and finally what [License](/WhichLicense.md/) we want to use for a possible implementation
+
+Maybe we should also take virtual displays (one canvas that stretches over one or more displays) and cloned displays (same info on multiple displays) into account
