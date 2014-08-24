@@ -45,7 +45,7 @@ It should be possible to choose between different fonts, from different sources:
 
 Functions:
 - drawChar(x0,y0,char,c)
-- drawString(x0,y0,string,c)
+- drawString(x0,y0,string,c)<br>
 used in with Print...
 - Print("xxx");
 - Println("xxx");
