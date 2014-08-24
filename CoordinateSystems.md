@@ -1,4 +1,8 @@
 Coordinate Systems
+==
+
+What we might need
+-
 
 From high level to low level
 - canvas: The coordinate system used by the application code to draw on the canvas.
