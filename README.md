@@ -1,4 +1,6 @@
 displayDriverDiscussion
 =======================
 
-We're developing a somewhat flexible framework for microcontroller display drivers
+We're discussing a framework for display drivers in microcontroller applications.
+
+
