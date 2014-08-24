@@ -10,4 +10,4 @@ Aspects we need to consider:
 - [The Backend](/Backend.md/)
 - [Display Capabilities](/DisplayCapabilities.md/)
 - [Display Properties](/DisplayProperties.md/)
-- and finally what [License](/ WhichLicense.md/) we want to use for a possible implementation
+- and finally what [License](/WhichLicense.md/) we want to use for a possible implementation
