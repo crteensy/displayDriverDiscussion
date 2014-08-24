@@ -3,6 +3,10 @@ displayDriverDiscussion
 
 We're discussing a framework for display drivers in microcontroller applications.
 
+__Feel free to use the wiki!__ The wiki might be useful for demonstrating certain aspects of the backend, for example.
+
+If something needs to be added or changed, let's open an issue first to have a thread where we can track pros and cons.
+
 Aspects we need to consider:
 - [Drawing Primitives](/DrawingPrimitives.md/)
 - Different [Color Spaces](/ColorSpaces.md/) (app, canvas, display)
