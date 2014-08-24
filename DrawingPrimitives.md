@@ -58,7 +58,7 @@ Optional Character and String functions:
 - center, flush left, and flush right
 - wrap
 - setTextColor(c) or setTextColor(foreground c, background c)
-- setTextSize(...)
+- setTextSize(...) maybe not if ext font used (fixed font) useful only for internal ASCII
 - setTextRotation(...)
 - setCursor(r,c) should divide the screen in row and column based on char selected
 
