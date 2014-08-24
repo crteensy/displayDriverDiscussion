@@ -60,4 +60,5 @@ Optional Character and String functions:
 - setTextColor(c) or setTextColor(foreground c, background c)
 - setTextSize(...)
 - setTextRotation(...)
+- setCursor(r,c) should divide the screen in row and column based on char selected
 
