@@ -10,7 +10,7 @@ If something needs to be added or changed, let's open an issue first to have a t
 Aspects we need to consider:
 - [Drawing Primitives](/DrawingPrimitives.md/)
 - Different [Color Spaces](/ColorSpaces.md/) (app, canvas, display)
-- [Coordinate Systems](/ColorSpaces.md/) (canvas, physical, display)
+- [Coordinate Systems](/CoordinateSystems.md/) (canvas, physical, display)
 - [The Backend](/Backend.md/)
 - [Display Capabilities](/DisplayCapabilities.md/)
 - [Display Properties](/DisplayProperties.md/)
